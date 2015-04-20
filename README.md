@@ -29,7 +29,9 @@ http://www.cnblogs.com/youjun/archive/2012/03/21/2410644.html
 ## Algorithm
 - http://ask.julyedu.com/question/314
 
-
+## IDE
+- http://www.youmeek.com/intellij-idea-part-viii-git-and-github/
+- http://www.imooc.com/learn/333
 
 
 
