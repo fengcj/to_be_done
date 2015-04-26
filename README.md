@@ -17,7 +17,16 @@
    - http://blog.csdn.net/fjseryi/article/details/12677803
    - http://www.javaworld.com/article/2077322/core-java/core-java-sockets-programming-in-java-a-tutorial.html
 
+## Js
+   - 
 
+## MOOC
+   - http://ke.qq.com/cgi-bin/courseDetail?course_id=63896#
+   - http://pnmooc.ke.qq.com/
+   - http://www.imooc.com/view/345
+
+## Python
+   - http://python.jobbole.com/81280/
 
 ## Other
    - http://www.91ri.org/12611.html
